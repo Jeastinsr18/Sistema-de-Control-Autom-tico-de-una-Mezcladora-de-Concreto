@@ -1,0 +1,24 @@
+# MATLAB
+*.asv
+*.autosave
+*.m~
+slprj/
+sccprj/
+codegen/
+*.slxc
+*.mex*
+
+# Simulink cache and generated files
+*.slx.r20*
+*.mdl.r20*
+
+# Operating systems
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Generated results
+resultados/*.fig
+resultados/*.png
+resultados/*.mat
+

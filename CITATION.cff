@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "Si utiliza este proyecto, cite este repositorio."
+title: "Control automático de velocidad de una mezcladora de cemento"
+type: software
+authors:
+  - family-names: "Soto Ramírez"
+    given-names: "Jeastin"
+date-released: 2026-09-11
